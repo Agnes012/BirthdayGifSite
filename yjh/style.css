@@ -1,0 +1,63 @@
+body {
+    background-image: url("image/bg.jpg");
+    background-size: cover;
+    background-color: black;
+    font-weight: bold;
+    text-align: center;
+    text-shadow: 0 0px 1px #e8cf7f;
+    color: whitesmoke;
+    font-size: 18px;
+  }
+  
+  #pic{
+    width: 150px;
+    border: 1px solid white;
+  }
+  
+  .gift-sec {
+  margin-top: 50px;
+  }
+  
+  .gift-box {
+      margin: 15px auto;
+      width: 400px;
+      height: 250px;
+      border: 6px solid #dfd8d8;
+      border-radius: 10px;
+      background-image: url("image/gifbox.jpg");
+      background-size: cover;
+      background-color: #e8cf7f;
+  }
+  
+  #gif-1:hover {
+    background-image :url("image/one.gif") ;
+    
+  }
+  
+  
+  #gif-2:hover {
+    background-image :url("image/myfave.jpg") ;
+    
+  }
+  
+  #gif-3:hover {
+    background-image :url("image/three.gif") ;
+    
+  }
+  
+  #gif-4:hover {
+    background-image :url("image/yjh2.jpg") ;
+    
+  }
+  
+  
+  span{
+    border-bottom: 4px solid #e8cf7f;
+  }
+  
+  #footer{
+    margin: 30px auto;
+    font-style: italic
+    
+  
+  }
